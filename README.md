@@ -37,3 +37,6 @@ Sehingga tampilan dari ESP32 kit seperti berikut:
 3.  Run kode (.ino) yang berada di repository ini sehingga outputnya dapat menjadi seperti foto berikut:
 
 <img width="699" height="470" alt="Image" src="https://github.com/user-attachments/assets/8602815f-a93e-4f3d-87b8-a3e085acc706" />
+
+![WhatsApp Image 2025-10-01 at 10 35 55_67a525f8](https://github.com/user-attachments/assets/e1461285-8d19-4cb0-87a2-094f207b765c)
+bisa lihat output di serial monitor juga dengan setting baud 115200
